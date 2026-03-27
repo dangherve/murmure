@@ -49,3 +49,5 @@ CLAUDE.md
 # Release artifacts downloaded locally
 tmp-release/
 tmp-release-flat/
+!buildTools
+
