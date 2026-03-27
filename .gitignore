@@ -50,4 +50,5 @@ CLAUDE.md
 tmp-release/
 tmp-release-flat/
 !buildTools
+!.woodpecker
 
